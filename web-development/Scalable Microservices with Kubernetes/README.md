@@ -17,5 +17,27 @@
  * Adrian Cockroft "The State of the Art in Microservices" (docker specific)
  * Martin Fowler "Microservices" at goto
  * Craig McLuckie "The Next Chapter in Native Cloud Computing" on cloud-native computing as being: container-packaged, dynamically-scheduled, and microservices-oriented
+ ### Tools used in course
+
+#### The Go Programming Language
+* Our app is written in Go. If you’re not already using Go, you owe it to yourself to try it out.
+* https://golang.org/
+
+#### Google Cloud Shell
+* A free temp VM preloaded with the tools need to manage our clusters.
+* https://cloud.google.com/shell/docs/
+
+#### Docker
+* We use Docker to package, distribute, and run our application.
+* https://www.docker.com/
+
+#### Kubernetes
+* Once we have an application, we use Kubernetes to handle the heavy lifting of managing, deploying, and scaling our application.
+* http://kubernetes.io/
+
+#### Google Container Engine (GKE)
+* GKE is a hosted Kubernetes service
+* https://cloud.google.com/container-engine/
+
 
 
