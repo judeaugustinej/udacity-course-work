@@ -1,7 +1,7 @@
-Introduction to devops
-https://www.udacity.com/course/intro-to-devops--ud611
-https://github.com/udacity/devops-intro-project
-
+###Introduction to devops
+* https://www.udacity.com/course/intro-to-devops--ud611
+* https://github.com/udacity/devops-intro-project
+![alt tag](https://user-images.githubusercontent.com/3624858/27232616-53b9badc-52d4-11e7-829c-6ca72048d795.png)
 CAMS: The Devops Life Cycle.
 C - Communication & collabration
 A - Automation
@@ -21,6 +21,7 @@ Hosted CI Travis and CICircle
 Integrating Chat bot slack and hip chat with jenkins, CI Travis and CircleCI
 
 Mointoring
+![alt tag](https://user-images.githubusercontent.com/3624858/27232590-39460b38-52d4-11e7-865b-a768ff492422.png)
 - Service monitoring
 - Business monitoring (how your service traffic is growing)
 - Monitoring Avaliability and performance(hardware metrics disk usage, temp
